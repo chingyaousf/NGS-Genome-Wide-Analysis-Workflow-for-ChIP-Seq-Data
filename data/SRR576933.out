@@ -1,0 +1,14 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Warning: gzbuffer added in zlib v1.2.3.5. Unable to change buffer size from default of 8192.
+3603544 reads; of these:
+  3603544 (100.00%) were unpaired; of these:
+    1220111 (33.86%) aligned 0 times
+    2280575 (63.29%) aligned exactly 1 time
+    102858 (2.85%) aligned >1 times
+66.14% overall alignment rate
