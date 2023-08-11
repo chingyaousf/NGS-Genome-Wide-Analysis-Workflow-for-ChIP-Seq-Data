@@ -8,7 +8,7 @@
 
 ## Project Overview:
 
-This project revolves around a thorough analysis workflow inspired by the study titled "Genome-scale Analysis of Escherichia coli FNR Reveals Complex Features of Transcription Factor Binding." The analysis workflow encompasses essential stages, including quality check (QC), read mapping, and peak-calling. Each step is executed using open-source software and command-line interfaces.
+This project revolves around a thorough analysis workflow inspired by the study titled "Genome-scale Analysis of Escherichia coli FNR Reveals Complex Features of Transcription Factor Binding." The analysis workflow encompasses essential stages, including quality check (QC), read mapping, and peak-calling. Each step is executed using open-source software and command-line interfaces by HPC (High Performance Computer).
 
 -   **Step 1: Quality Check (QC)**
 
@@ -78,7 +78,7 @@ J. W. K. Ho, E. Bishop, P. V. Karchenko, N. Nègre, K. P. White and P. J. Park, 
 
 K. S. Myers, H. Yan, I. M. Ong, D. Chung, K. Liang, F. Tran, S. Keleş, R. Landick and P. J. Kiley, Genome-scale analysis of Escherichia coli FNR reveals complex features of transcription factor binding, *PLoS Genet.*, 2013, **9**, e1003565.
 
-Park PJ. ChIP-seq: advantages and challenges of a maturing technology. *Nat Rev Genet*. 2009;10(10):669-680. doi:10.1038/nrg2641
+Park PJ. ChIP-seq: advantages and challenges of a maturing technology. *Nat Rev Genet*. 2009;10(10):669-680. <doi:10.1038/nrg2641>
 
 ## Blog:
 
